@@ -8,4 +8,4 @@
 
 ### How to think about statistics and why the odds are higher [[RUS]](articles/ru/statistics.md)
 
-### Three more rules for creative work [[EN](articles/en/creative-rules.md)]
+### Three more rules for creative work [[EN]](articles/en/creative-rules.md)
