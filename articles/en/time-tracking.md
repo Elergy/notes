@@ -66,6 +66,7 @@ but it's less funny.
 </kbd>
 
 And this is only about "working hours" –– how much time was spend on work. We come to the office every workday at the same time (more or less) and still give the wrong answer.  
+
 Imagine how it goes if we should answer about "productive hours" or our own projects, where we don't have any schedule and guides:
 * I feel like I learn Spanish, but the data says that I spent on it only 2 hours last month  
 * I feel like I’m exhausted working on my project, but in reality, I have been programming for only 30 minutes. And then I spent 3 hours reading articles about Elon Musk. Yes, probably it was somehow related, but it doesn't help my project.
@@ -93,7 +94,7 @@ To estimate a task, I usually:
    If I did, I roughly know how much time it took for me to finish (because I tracked it).  
    If I didn't have anything like this, I try to guess. 
 
-Then, after I finish the task, I look at my log and my predicting to get more information for the future. Next time I have something similar, my estimation will be more accurate.  
+Then, after I finish the task, I look at my log and my prediction to get more information for the future. Next time I have something similar, my estimation will be more accurate.  
 
 <!-- This approach helps to eliminate common problems:  
 * 15-minutes task
@@ -102,7 +103,7 @@ Then, after I finish the task, I look at my log and my predicting to get more in
 To estimate when we finish, we need to know how much time we have. There are a lot of things that can use our productive time, such as meetings, context switch, breaks and other unpredictable activities.  
 And this is the place where time tracking can help a lot. The more data we have, the more we know how much time we spend on different activities. Yes, it'll be different from day to day, but the average value can give enough information.  
 
-For example, last year I spent 40% of my working time on actual tickets. If I estimate, that a task will take 20 hours or more, it's highly possible that I won't finish it in one week. Therefore if someone depends on it, I'll warn them right away.
+For example, last year I spent 40% of my working time on actual tasks. If I estimate, that a task will take 20 hours or more, it's highly possible that I won't finish it in one week. Therefore if someone depends on it, I'll warn the stakeholders right away.
 
 ---
 
