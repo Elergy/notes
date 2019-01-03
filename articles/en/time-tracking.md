@@ -18,6 +18,7 @@ When I say "time tracking", I mean "manual time tracking".
 I open an app on my computer or smartphone, fill a couple of fields about what I'm doing and press "Start". Or I just select something from the history if I did it in the past.  
 
 Nobody complained, but I suppose that sometimes it can be annoying for people around me.  
+
 Imagine the situation: I work on something on the laptop, and a colleague comes with a question
 > Colleague: Hi, do you have a couple of minutes?  
 > Me: \<picks the phone>  
@@ -53,12 +54,16 @@ I had this feeling many times in my life: I try hard, but nothing changes.
 Whenever I hear it, I advise tracking time to get the real picture.  
 
 Usually, it's properly explained by this tweet: 
-![CEO's workweek](resources/average-ceo.jpg)
+<kbd>
+  <img src="resources/average-ceo.jpg">
+</kbd>
 
 but it's less funny.  
 
 [Data in this research](https://www.bls.gov/opub/mlr/2011/06/art3full.pdf) illustrate that people overestimate their work hours by 5–10 per cent and the more hours they say, the bigger the gap is:
-![Gap](resources/work-hours.jpg)
+<kbd>
+  <img src="resources/work-hours.jpg">
+</kbd>
 
 And this is only about "working hours" –– how much time was spend on work. We come to the office every workday at the same time (more or less) and still give the wrong answer.  
 Imagine how it goes if we should answer about "productive hours" or our own projects, where we don't have any schedule and guides:
