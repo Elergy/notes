@@ -4,6 +4,14 @@
 > 
 > All of this notes are my personal opinions: sometimes they're wrong, sometimes I even know about it.
 ---
-###  SLA for developers and humans. [[RUS]](articles/ru/sla.md) 
+> January 2019
 
-### How to think about statistics and why the odds are higher [[RUS]](articles/ru/statistics.md)
+\> Three more rules for creative work [[EN]](articles/en/creative-rules.md)
+
+> August 2018
+
+\> How to think about statistics and why the odds are higher [[RUS]](articles/ru/statistics.md)
+
+> July 2018
+
+\> SLA for developers and humans. [[RUS]](articles/ru/sla.md) 
