@@ -6,7 +6,7 @@
 ---
 > January 2019
 
-[> 3 Things You Might Get by Tracking Time (EN)](articles/en/time-tracking.md)
+[> Why I track time (EN)](articles/en/time-tracking.md)
 
 [> Three more rules for creative work (EN)](articles/en/creative-rules.md)
 

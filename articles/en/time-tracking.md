@@ -1,4 +1,4 @@
-# 3 Things You Might Get by Tracking Time
+# Why I track time
 
 I started tracking time 4 years ago. It was new and exciting in the beginning. After a little while, I found it tedious and exhaustive.  
 Eventually, it became a habit.
